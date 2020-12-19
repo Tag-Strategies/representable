@@ -5,7 +5,7 @@ title: Linux Setup Guide
 
 # Setup Representable on Ubuntu 20.04
 
-Up to date as on Nov 2020.
+Up to date as of Nov 2020.
 
 ## Prerequisites
 
